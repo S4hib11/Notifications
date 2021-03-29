@@ -1,0 +1,1 @@
+A simple notification UI created using React JS. User can see notifications, mark specific notifications read or unread or mark all notifications read or unread at once. User can also add new notifications which will be visible for current session. User can see the number of unread notifications with the help of badge icon.
